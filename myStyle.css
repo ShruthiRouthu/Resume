@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 31, 2015, 6:26:53 PM
+    Author     : Professional
+*/
+
+ *{
+               font-size: 16px;
+               font-family: Calibri;
+            }
+            table{
+                width:90%
+            } 
+            table, th, td {
+              border: 1px solid #660000;
+              border-collapse: collapse;
+            }
+            th, td {
+               text-align:center;
+               padding: 3px;
+            }
+            
+            th{
+                background-color:#ff9999 
+            }
+            
+            .heading{
+                color:#660000;
+                font-style:italic; 
+                margin-top: 50px;
+                margin-bottom: 50px;
+            }
+            
+            .subheading{
+                color:black;
+                font-style:italic;
+            }
+            .box{
+                margin: 10% 10% 10% 10%;
+                
+            }
+
+/* F:\WCTC 2015 Fall\DistributedJavaF\DJClass1\Resume\newCascadeStyleSheet.css */
